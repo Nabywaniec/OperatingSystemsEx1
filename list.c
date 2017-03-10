@@ -1,6 +1,9 @@
 
 //#include <stdlib.h>
 #include <string.h>
+#include <list.h>
+
+
 /*
 typedef struct info {                       // informacje o u¿ytkowniku
   const char *firstName;
