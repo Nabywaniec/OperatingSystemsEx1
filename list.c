@@ -1,7 +1,7 @@
 
 //#include <stdlib.h>
 #include <string.h>
-
+/*
 typedef struct info {                       // informacje o u¿ytkowniku
   const char *firstName;
   const char *lastName;
@@ -32,6 +32,9 @@ typedef struct TreeNode {           // element listy dwukierunkowej
 typedef struct Tree {                //lista dwukierunkowa
     TreeNode*root;
 } Tree;
+
+
+*/
 /////////////////////////////////////////////////////////////////////////////
 
 
